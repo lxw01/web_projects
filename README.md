@@ -1,6 +1,5 @@
-# web_projects
-web related projects
+# Web Projects
 
-project: pixel art project
-goal: user can customize a grid canvas and draw with user preferred color.
-tech: html, css, javascript
+## Project: Pixel art maker
+### Goal: user can customize a grid canvas and draw with user preferred color.
+### Tech: html, css, javascript
